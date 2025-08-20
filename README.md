@@ -58,7 +58,6 @@
 - **Node.js** – JavaScript runtime
 - **Express.js** – Fast backend server
 - **MongoDB** – NoSQL database for secure storage
-- **Mongoose** – ODM for MongoDB
 
 ---
 
